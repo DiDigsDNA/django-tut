@@ -1,0 +1,9 @@
+#ignore automatically created python files
+*.pyc
+*/__pycache__/
+
+#hidden mac files
+*.DS_Store
+
+#automatically create pycharm file
+**/.idea/
